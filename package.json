@@ -31,7 +31,8 @@
     "storybook": "start-storybook -p 6006",
     "storybook:build": "build-storybook",
     "generate": "plop",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "docs": "jsdoc -c jsdoc.json"
   },
   "husky": {
     "hooks": {
