@@ -1,22 +1,18 @@
 {
-  "name": "boilerplate-react-vite",
-  "description": "A React boilerplate powered by Vite builder",
+  "name": "roy-ipsum-extension",
+  "description": "Roy Ipsum browser extension",
   "version": "1.0.0",
-  "author": "Adeonir Kohl",
-  "license": "MIT",
+  "author": "Jordan walsh",
+  "license": "Apache 2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adeonir/boilerplate-react-vite.git"
+    "url": "git@github.com:jmwalsh91/roy-ipsum-extension.git"
   },
   "keywords": [
-    "boilerplate",
-    "react",
-    "vite",
-    "vitest",
-    "styled-components",
-    "react-router",
-    "storybook",
-    "typescript"
+    "Blade Runner",
+    "Attackships",
+    "on fire",
+    "gates of orion"
   ],
   "scripts": {
     "dev": "vite",
