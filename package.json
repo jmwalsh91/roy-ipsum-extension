@@ -3,7 +3,7 @@
   "description": "Roy Ipsum browser extension",
   "version": "1.0.0",
   "author": "Jordan walsh",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:jmwalsh91/roy-ipsum-extension.git"
