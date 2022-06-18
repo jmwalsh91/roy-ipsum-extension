@@ -1,11 +1,14 @@
 import { BrowserRouter } from 'react-router-dom'
 
+import Main from './components/Main'
+import TestCard from './components/TestCard'
+
 export function App() {
   return (
     <BrowserRouter>
-      {/**
-       * UI
-       */}
+      <Main>
+        <TestCard />
+      </Main>
     </BrowserRouter>
   )
 }
